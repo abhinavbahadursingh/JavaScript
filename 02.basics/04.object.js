@@ -16,4 +16,22 @@ const regularUser = {
     }
 }
 
-console.log(regularUser.fullname);
+// console.log(regularUser.fullname);
+
+const course = {
+    courseName : "Js in hindi",
+    price : "999",
+    courseInstructor: "Abhinav"
+
+}
+
+// const {courseInstructor : inst} = course
+
+// console.log(inst);
+
+// {
+//     name: "abhinav",
+//     courseName:
+// }
+
+
