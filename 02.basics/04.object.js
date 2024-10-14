@@ -25,6 +25,8 @@ const course = {
 
 }
 
+
+
 // const {courseInstructor : inst} = course
 
 // console.log(inst);
