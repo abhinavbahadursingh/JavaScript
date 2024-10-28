@@ -4,7 +4,6 @@
 //     welcomeMessage : function () {
 //         console.log(`Hello ${this.userName}, Wellcome to my website`);
 //         console.log(this);
-        
 //     }
 // }
 
